@@ -3,4 +3,4 @@ Curso de HTML5 e CSS3 do Curso em Vídeo
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://gessicareis-dev.github.io/HTML5-e-CSS3/d010/android.html">
+<a href="https://gessicareis-dev.github.io/HTML5-e-CSS3/d010/android.html#">
